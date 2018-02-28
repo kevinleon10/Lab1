@@ -11,9 +11,6 @@ body{
     background-color: white !important;
 }
 
-.fa-facebook-f:before {
-    content: "\f39e"; }
-
 
 .topBarText {
     font-size: 14px;

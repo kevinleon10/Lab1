@@ -1,0 +1,10 @@
+To-Do List
+
+En espera:
+1. Footer
+
+En desarrollo:
+1. Navbar1
+2. Navbar2
+
+Completo:
