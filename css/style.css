@@ -1,0 +1,41 @@
+.header {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 5234px;
+    z-index: 289;
+}
+
+body{
+    background-color: white !important;
+}
+
+.fa-facebook-f:before {
+    content: "\f39e"; }
+
+
+.topBarText {
+    font-size: 14px;
+    font-family: "FontAwesome";
+    color: rgb(255, 192, 49);
+    line-height: 2;
+    position: absolute;
+    left: 376px;
+    top: 7px;
+    width: 520px;
+    height: 17px;
+    z-index: 287;
+}
+
+.topBarIcons {
+    font-size: 14px;
+    font-family: "FontAwesome";
+    color: rgb(191, 191, 191);
+    text-transform: uppercase;
+    line-height: 2;
+    position: absolute;
+    left: 1366px;
+    top: 7px;
+    z-index: 286;
+}
