@@ -4,7 +4,8 @@ En espera:
 1. Footer
 
 En desarrollo:
-1. Navbar1
-2. Navbar2
+1. Navbar2
+2. News 1
 
 Completo:
+1. Navbar 1
