@@ -1,16 +1,34 @@
-.header {
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    width: 1920px;
-    height: 5234px;
-    z-index: 289;
+header {
+    width: 100%;
+    height: 100px;
+    background-color: black;
 }
 
 body{
     background-color: white !important;
 }
 
+.center {
+    margin: auto;
+    height: 100%;
+    width: 60%;
+}
+
+.bg-faded {
+    background-color: black;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .open>.nav-link {
+    color: white;
+}
+
+.navbar-toggleable-md {
+    height: 100%;
+}
+
+.navbar-nav {
+    padding-left: 50%;
+}
 
 .topBarText {
     font-size: 14px;
