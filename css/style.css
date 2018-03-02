@@ -3,7 +3,7 @@ header {
     height: 600px;
     background: linear-gradient(
             to bottom,
-            black 2%,
+            black 21%,
             black 16%,
             lightgrey 16%,
             gray 80%
@@ -25,12 +25,16 @@ body{
     background-color: black;
 }
 
+.navbar{
+    padding: .4rem 1rem 1rem;
+}
+
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .open>.nav-link {
     color: white;
 }
 
 .navbar-toggleable-md {
-    height: 15%;
+    height: 7%;
     margin-top: 4%;
 }
 
@@ -51,8 +55,6 @@ body{
     font-family: "FontAwesome";
     color: rgb(255, 192, 49);
     line-height: 2;
-    position: absolute;
-    left: 290px;
     top: 7px;
     width: 520px;
     height: 17px;
@@ -66,7 +68,7 @@ body{
     text-transform: uppercase;
     line-height: 2;
     position: absolute;
-    left: 1366px;
+    padding-left: 65%;
     top: 7px;
     z-index: 286;
 }
