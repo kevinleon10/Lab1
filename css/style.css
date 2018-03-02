@@ -46,14 +46,13 @@ body{
     line-height: 1;
 }
 
-
 .topBarText {
     font-size: 14px;
     font-family: "FontAwesome";
     color: rgb(255, 192, 49);
     line-height: 2;
     position: absolute;
-    left: 376px;
+    left: 290px;
     top: 7px;
     width: 520px;
     height: 17px;
